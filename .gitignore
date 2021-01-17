@@ -1,0 +1,6 @@
+node_modules/
+scss/
+css/
+package-lock.json
+package.json
+gruntfile.js
